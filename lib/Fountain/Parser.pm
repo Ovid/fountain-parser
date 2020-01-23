@@ -165,6 +165,8 @@ As of version .01, this prints:
 
 =item * L<Afterwriting|https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md> can also be installed locally.
 
+=item * L<Vim syntax for Fountain|https://github.com/vim-scripts/fountain.vim>.
+
 =back
 
 =head1 TODO

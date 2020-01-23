@@ -97,6 +97,7 @@ As of version .01, this prints:
 - See [the Fountain website](https://fountain.io/) for syntax details.
 - The [afterwriting](https://afterwriting.com/) web site can convert your Fountain to a PDF.
 - [Afterwriting](https://github.com/ifrost/afterwriting-labs/blob/master/docs/clients.md) can also be installed locally.
+- [Vim syntax for Fountain](https://github.com/vim-scripts/fountain.vim).
 
 # TODO
 
