@@ -10,8 +10,7 @@ sub test_full_example ( $test, $ ) {
     ok $parser, 'We should be able to create a screenplay parser object';
 
     explain $parser->report;
-
-    #    explain $parser->to_string;
+    explain $parser->to_string;
 }
 
 sub _get_screenplay ($test) {
@@ -58,6 +57,7 @@ HERO
 What did you say?
 
 Villain mumbles something.
+
 HERO (CONT'D)
 What did you say? And if you mumble, the damned writer needs to be more explicit about what you said!
 
