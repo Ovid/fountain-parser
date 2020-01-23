@@ -131,7 +131,7 @@ Becomes this:
 
                         MARY
               Do you think goblins ever existed,
-    father?
+              father?
 
                         WILLIAM
                    (laughing)

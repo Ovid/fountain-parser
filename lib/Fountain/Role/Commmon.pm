@@ -27,4 +27,11 @@ __END__
 
 =head1 SYNOPSIS
 
-    package FOu
+    package Fountain::Parser::Body;
+
+    use Moose;
+    with 'Fountain::Role::Commmon';
+
+=head1 DESCRIPTION
+
+No user serviceable parts inside.
