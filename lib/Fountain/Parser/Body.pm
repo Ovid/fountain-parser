@@ -145,7 +145,7 @@ sub report ($self) {
 # TODO:
 #    Track number of scenes per character
 #        We can attempt to track character mentions in action sections to note
-#        they're their, even if they have no dialogue.
+#        they're there, even if they have no dialogue.
 #    Add INT/EXT count
     my $report = '';
 
